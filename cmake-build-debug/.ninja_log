@@ -1,0 +1,12 @@
+# ninja log v6
+14	1157	7649777019810797	CMakeFiles/4_practica_mascotas_virtuales_kna.dir/src/Mascota.cpp.obj	3a8244ef99e7842b
+1439	1695	7649812702895853	4_practica_mascotas_virtuales_kna.exe	59d3f5c148160985
+35	1216	7649774694274488	CMakeFiles/4_practica_mascotas_virtuales_kna.dir/src/Habilidad.cpp.obj	cf7df18697b057df
+16	1439	7649812688673904	CMakeFiles/4_practica_mascotas_virtuales_kna.dir/main.cpp.obj	ae0bc23d3719a6b0
+23	1181	7649812688733743	CMakeFiles/4_practica_mascotas_virtuales_kna.dir/src/Objeto.cpp.obj	b0510a73caf2f671
+28	1253	7649812688793587	CMakeFiles/4_practica_mascotas_virtuales_kna.dir/src/Usuario.cpp.obj	dbb7d75ae5ca6e45
+39	1219	7649774694314384	CMakeFiles/4_practica_mascotas_virtuales_kna.dir/src/Cuidado.cpp.obj	281d8142b3cbbbc6
+25	1197	7649840631863846	CMakeFiles/4_practica_mascotas_virtuales_kna.dir/src/Mascota.cpp.obj	3a8244ef99e7842b
+30	1287	7649840631913723	CMakeFiles/4_practica_mascotas_virtuales_kna.dir/src/Tienda.cpp.obj	dde19ed692c36b38
+21	1375	7649840631823957	CMakeFiles/4_practica_mascotas_virtuales_kna.dir/main.cpp.obj	ae0bc23d3719a6b0
+1375	1634	7649840645367720	4_practica_mascotas_virtuales_kna.exe	87cf305655a7dc93

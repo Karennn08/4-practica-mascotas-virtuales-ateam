@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "4_practica_mascotas_virtuales_kna",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "4_practica_mascotas_virtuales_kna::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4_practica_mascotas_virtuales_kna-Debug-d7e93ebf2aa54937be0a.json",
+					"name" : "4_practica_mascotas_virtuales_kna",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/karen/OneDrive/Escritorio/Mascotas/4-practica-mascotas-virtuales-ateam/cmake-build-debug",
+		"source" : "C:/Users/karen/OneDrive/Escritorio/Mascotas/4-practica-mascotas-virtuales-ateam"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

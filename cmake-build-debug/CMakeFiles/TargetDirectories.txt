@@ -1,0 +1,3 @@
+C:/Users/karen/OneDrive/Escritorio/Mascotas/4-practica-mascotas-virtuales-ateam/cmake-build-debug/CMakeFiles/4_practica_mascotas_virtuales_kna.dir
+C:/Users/karen/OneDrive/Escritorio/Mascotas/4-practica-mascotas-virtuales-ateam/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/karen/OneDrive/Escritorio/Mascotas/4-practica-mascotas-virtuales-ateam/cmake-build-debug/CMakeFiles/rebuild_cache.dir
